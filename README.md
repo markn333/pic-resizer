@@ -16,7 +16,7 @@ App Store申請用のスクリーンショットを簡単にリサイズでき�
 
 ## 🚀 使い方
 
-1. [こちらからアクセス](https://yourusername.github.io/pic-resizer/)
+1. [こちらからアクセス](https://markn333.github.io/pic-resizer/)
 2. 画像をドラッグ&ドロップまたは選択
 3. プリセットまたはカスタムサイズを選択
 4. クロップモードを選択（横基準/縦基準）
@@ -35,7 +35,7 @@ App Store申請用のスクリーンショットを簡単にリサイズでき�
 ## 💻 ローカルで使用
 
 ```bash
-git clone https://github.com/yourusername/pic-resizer.git
+git clone https://github.com/markn333/pic-resizer.git
 cd pic-resizer
 ```
 
